@@ -1,8 +1,9 @@
 # Hello, I'm Sultan Seytbekov 👋
 
-I'm a **Java Developer** | **Software Engineer** based in Almaty, Kazakhstan. I recently graduated with a degree in **Information Systems** from **SDU University**. I'm passionate about building reliable and scalable backend systems, exploring new technologies, and creating solutions to real-world problems.
+I'm a **Java Software Engineer** at **KPMG Kazakhstan**, working on backend systems and automation solutions.
+I hold a degree in **Information Systems** from **SDU University**.
 
-My main focus is on **Java development**, **backend services**, and **database management**.
+I focus on building reliable backend systems, automating business processes, and creating solutions that reduce manual work and improve efficiency.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
@@ -12,50 +13,75 @@ My main focus is on **Java development**, **backend services**, and **database m
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Languages:**
+**Languages**
 - Java (Core, Spring Boot)
 - SQL
 
-**Frameworks & Libraries:**
+**Frameworks & Libraries**
 - Spring Boot, Hibernate, RESTful APIs
-- JUnit, Mockito (for testing)
+- JUnit, Mockito
 
-**Tools:**
+**Tools**
 - Git, GitHub, Maven, Docker
 - IntelliJ IDEA, Visual Studio Code
 
-**Databases:**
+**Databases**
 - MySQL, PostgreSQL, MongoDB
+
+## 🛠 Projects
+
+### Mobile Fixed Cost Allocation – Automation Tool (Internal Project)
+**Java | PDF Parsing | Automation**
+
+- Developed an internal automation tool to process and allocate mobile fixed costs.
+- Parses PDF invoices and extracts structured data automatically.
+- Reduced manual processing time from hours to minutes.
+- Improved accuracy and minimized human errors in financial workflows.
+
+> Internal corporate project (code not publicly available).
+
+---
+
+### Cost Flow – Automation Tool (Internal Project)
+**Java | Backend Automation**
+
+- Designed and implemented a backend tool to automate cost flow processing.
+- Streamlined repetitive financial operations and reduced operational overhead.
+- Focused on reliability, data consistency, and maintainability.
+
+> Internal corporate project (code not publicly available).
+
+---
+
+### QTracker – Web Application (Internal Project)
+**Java | Spring Boot | Web Application**
+
+- Participated in the development of a web-based control tracking system.
+- Implemented features such as authentication, control creation, editing, and data export.
+- Worked with workflows, role-based access, and business logic.
+
+> Internal corporate project (code not publicly available).
 
 ## 🚀 What I’m Currently Learning
 
-![Learning Badge](https://img.shields.io/badge/Learning-Spring%20Boot-blue?style=flat)
-- **Spring Boot**: Building backend applications with this powerful framework.
-- **Cloud Computing**: Exploring deployment on platforms like AWS and Azure.
-- **Microservices**: Developing skills in distributed systems and service-oriented architecture.
+- **Spring Boot**: Advanced backend patterns and best practices
+- **Microservices**: Distributed systems and service-oriented architecture
+- **Cloud Computing**: Deployment and infrastructure basics (AWS, Azure)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true)
 
 ## 📬 Connect with Me
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sultan%20Seytbekov-blue?style=flat&logo=linkedin&logoColor=white)
 - **LinkedIn**: [Sultan Seytbekov](https://www.linkedin.com/in/sultan-seytbekov/)
 - **Email**: [seytbekovsultan14@gmail.com](mailto:seytbekovsultan14@gmail.com)
 
-## 🚀 Let’s Build Something Together!
+## 🚀 Let’s Build Something Together
 
-Although I don’t have projects to showcase yet, I’m always eager to collaborate with others, contribute to open-source, or work on new projects. Feel free to reach out and let’s build something great together! 💻
-
----
-
-### My Interests
-- **Open-Source Contributions**: I actively contribute to various open-source projects.
-- **Collaborative Projects**: Looking for exciting opportunities to work with teams.
-- **Continuous Learning**: Always looking to improve and learn new technologies.
+I’m open to collaboration, backend projects, and open-source contributions.  
+Always interested in solving real business problems with clean and efficient code.
 
 ---
 
-**Thanks for visiting my profile!**  
-Feel free to connect or explore my repositories once I start adding them. 🚀
+Thanks for visiting my profile.
