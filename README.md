@@ -1,6 +1,6 @@
 # Hello, I'm Sultan 👋
 
-I'm a **Java Software Engineer** working on backend systems and automation solutions.
+I'm a **Software Engineer** working on backend systems and automation solutions.
 I hold a degree in **Information Systems** from **SDU University**.
 I focus on building reliable backend systems, automating business processes, and creating solutions that reduce manual work and improve efficiency.
 
